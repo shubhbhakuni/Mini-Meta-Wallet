@@ -1,6 +1,6 @@
 # MetaMass Clone Wallet
 
-Building and Deploying a DeFi MetaMass Wallet Clone for Secure Transactions
+Building and Deploying a MetaMass Wallet Clone for Secure Transactions
 
 MetaMass offers a revolutionary approach to decentralized finance (DeFi) with our wallet clone project. Drawing inspiration from the acclaimed MetaMask, our MetaMass clone empowers users to securely manage their digital assets, interact with decentralized applications (dApps), and participate in the vibrant DeFi ecosystem.
 
