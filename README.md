@@ -1,4 +1,4 @@
-# MetaMass Clone Wallet
+# Mini Meta Wallet
 
 Building and Deploying a MetaMass Wallet Clone for Secure Transactions
 
