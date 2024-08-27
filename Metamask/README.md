@@ -12,7 +12,7 @@ Our MetaMass clone prioritizes security, usability, and interoperability, ensuri
 Kindly follow the following Instructions to run the project in your system and install the necessary requirements
 
 
-- [Final Source Code]([https://www.theblockchaincoders.com/sourceCode/build-metamask-clone-chrome-extension-form-scratch](https://github.com/shubhbhakuni/Mini-Meta-Wallet/tree/main))
+- [Final Source Code](https://www.theblockchaincoders.com/sourceCode/build-metamask-clone-chrome-extension-form-scratch](https://github.com/shubhbhakuni/Mini-Meta-Wallet/tree/main))
 
 #### Setup 
 
